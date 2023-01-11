@@ -84,5 +84,4 @@ int main()
 		comp);
 	return 0;
 }
-// this code is provided by harsh sinha username-
-// harshsinha03
+
